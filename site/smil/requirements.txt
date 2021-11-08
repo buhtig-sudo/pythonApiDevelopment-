@@ -1,0 +1,5 @@
+flask-restplus 
+flask-marshmallow
+flask-sqlalchemy
+marshmallow-sqlalchemy 
+werkzeug==0.16.1
